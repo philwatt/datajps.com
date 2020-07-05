@@ -1,0 +1,13 @@
+---
+layout: post
+title: Projects
+date: '2019-05-28 09:58:17'
+---
+
+This area is for projects that I’m working on – usually outside of my day job. The first project is for my Technopreneurship and Innovation topic as part of the Master of Information Systems (Executive) course I’m doing at the University of Melbourne.
+
+Note that **_Data SuperConductor_** and all the related content for it **_is_**  **_not real. It's just a hypothetical university project._**
+
+Enjoy!
+
+- [Data SuperConductor - Melbourne Uni Project](https://datajps.com/data-superconductor)

@@ -1,0 +1,18 @@
+---
+layout: post
+title: Some old stuff – does it still make sense?
+date: '2017-10-11 11:03:00'
+---
+
+* * *
+
+Sometimes data curation happens later than it probably ought to happen. Here’s an example. Back in 2010, I presented to the BCS in South Wales around Data Integration Tools:
+
+<!--kg-card-begin: html--><iframe src="//www.slideshare.net/slideshow/embed_code/key/sc9q2URFHbnIDs" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+  **[Unlocking value from data with data integration tools](//www.slideshare.net/PhilWatt/unlocking-value-from-data-with-data-integration-tools-v11-edited-for-web "Unlocking value from data with data integration tools")** from **[Phil Watt](https://www.slideshare.net/PhilWatt)** 
+<!--kg-card-end: html-->
+
+[http://slidesha.re/ditools](http://slidesha.re/ditools)
+
+I was happy with the talk at the time, and it highlighted some best practices that are still relevant today in the Big Data world. I’d be happy to hear your feedback.
+
