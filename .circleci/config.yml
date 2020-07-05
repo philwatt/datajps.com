@@ -6,7 +6,7 @@ version: 2
 references:
   install_awscli: &install_awscli
     run:
-      name: Install AWS CLI
+      name: Install AWS CLI 
       command: |
         sudo pip install awscli --upgrade
   add_aws_credentials: &add_aws_credentials
