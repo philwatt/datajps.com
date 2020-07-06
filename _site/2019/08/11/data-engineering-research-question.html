@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Data Engineering Research Question | DataJPS</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="Data Engineering Research Question" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="TL;DR: I’m looking for some help to define my master’s thesis research question. I’d really like you to give me some feedback through a short survey at:" />
+<meta property="og:description" content="TL;DR: I’m looking for some help to define my master’s thesis research question. I’d really like you to give me some feedback through a short survey at:" />
+<link rel="canonical" href="http://localhost:4000/2019/08/11/data-engineering-research-question.html" />
+<meta property="og:url" content="http://localhost:4000/2019/08/11/data-engineering-research-question.html" />
+<meta property="og:site_name" content="DataJPS" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-08-11T12:46:04+10:00" />
+<script type="application/ld+json">
+{"dateModified":"2019-08-11T12:46:04+10:00","datePublished":"2019-08-11T12:46:04+10:00","url":"http://localhost:4000/2019/08/11/data-engineering-research-question.html","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2019/08/11/data-engineering-research-question.html"},"description":"TL;DR: I’m looking for some help to define my master’s thesis research question. I’d really like you to give me some feedback through a short survey at:","@type":"BlogPosting","headline":"Data Engineering Research Question","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="DataJPS" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">DataJPS</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Data Engineering Research Question</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2019-08-11T12:46:04+10:00" itemprop="datePublished">Aug 11, 2019
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>TL;DR: I’m looking for some help to define my master’s thesis research question. I’d really like you to give me some feedback through a short survey at:</p>
+
+<p><a href="https://forms.gle/8iNv4Toaecb3fFtw8">https://forms.gle/8iNv4Toaecb3fFtw8</a></p>
+
+<p>Some of you know I’m working on a master’s degree at the University of Melbourne. I’m in the home stretch now, and working on my final thesis. This requires a research question with the following characteristics:</p>
+
+<ul>
+  <li>Clear</li>
+  <li>Concise</li>
+  <li>Complex</li>
+  <li>Arguable</li>
+</ul>
+
+<p>I’m most familiar with and interested in data and analytics as a domain, so this help to constrain the thinking. I’ve been talking to a number of people with data and analytics experience in my network that are also based in Melbourne. With their help, I’ve come up with the shortlist below, although I’m open to the idea that there may be better questions available. The questions I have so far are:</p>
+
+<ol>
+  <li>Why is it so hard to get real-time data into an analytics platform or data warehouse?</li>
+  <li>When should an organisation approach data integration / data engineering with an ETL Tool, and when is custom coding a better choice? (Definitions of both below)</li>
+  <li>Why is creating test data in a data integration / data engineering context so much more difficult than in a typical software engineering context?</li>
+</ol>
+
+<p>I’ve laid out my current thinking for each question below. If you have some thoughts on the questions and how to answer them, please get in touch or complete the short survey  </p>
+
+<p><a href="https://forms.gle/8iNv4Toaecb3fFtw8">https://forms.gle/8iNv4Toaecb3fFtw8</a></p>
+
+<h2 id="why-is-it-so-hard-to-get-real-time-data-into-an-analytics-platform-or-data-warehouse"><strong>Why is it so hard to get real-time data into an analytics platform or data warehouse?</strong></h2>
+
+<p>Many people I’ve interviewed  cite this as a real problem. An example is as follows:</p>
+
+<blockquote>
+  <p>Imagine an organisation with most systems run in their own on-premises data centre. The data warehouse development is managed by the Enterprise Finance division. The Marketing department wants to get real-time data into the data warehouse from the CRM system, which is owned by the Retail division. IT is responsible for the run and operation of the CRM system and the data warehouse. Operational (OPEX) costs for the CRM are borne by IT and licensing is by CPU sockets. The data is currently sent to the data warehouse overnight through a batch extract. The CRM system is otherwise idle overnight. Bonuses and promotions for IT executives are linked to annual OPEX cost reductions of 5%.</p>
+</blockquote>
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2019/08/BI--Data-Warehouse-and-Integrated-Data-Value---Unimelb-analytical-ecosystem-1.png" class="kg-image" /><figcaption>Typical Analytics Ecosystem: based on a diagram by Humza Naseer, University of Melbourne 2019</figcaption></figure>
+
+<blockquote>
+  <p>Moving the extract to real-time will mean a small increase in the CPU requirement during the day. Turning off the overnight batch has no impact on the CPU requirement as the system must be sized based on peak CPU needs during the online day. This will attract an increase in OPEX costs for IT. IT executives will block this change for real-time data - even if Marketing provide additional OPEX funding because their bonuses are linked to cost reductions. Escalation may not help, as the first point where the escalation will meet a common manager could easily be the CEO - whose time will be very precious.</p>
+</blockquote>
+
+<p>I hypothesise this is a result of organisational entropy, driven by misaligned incentives. I think I can model the behaviour and explore ways of altering pricing for the variables to change behaviour. The advantage of this question is that I can simulate the data and validate it through interviews. The downside of this question is the assumptions I need to make in the model - and can I get a model that gives a real insight into the problem? Kudos to <a href="https://www.linkedin.com/in/leo-lopes/">Leo Lopes at FICO</a> who acted as a sounding board for developing the concept.</p>
+
+<h2 id="when-should-an-organisation-approach-data-integration--data-engineering-with-an-etl-tool-and-when-is-custom-coding-a-better-choice"><strong>When should an organisation approach data integration / data engineering with an ETL Tool, and when is custom coding a better choice?</strong></h2>
+
+<p>There are two common approaches to data integration or data engineering. Firstly using an ETL tool with a graphical interface - sometimes a commercial tool like Informatica or even an open-source tool like NiFi, Talend or Node-RED. Secondly, custom coding using an open-source language like Java, Scala, Python or similar - often coupled with another open-source framework like Apache Airflow.</p>
+
+<p>Given that data engineering can become very complex very quickly, which is the most productive choice over the lifecycle of the data assets under management?</p>
+
+<p>For this question, I am considering using Compound Annual Growth Rate (CAGR) in the codebase over multiple years. This measure requires capturing data from source code control systems and has some dependencies and variables to control for. Kudos to <a href="https://www.linkedin.com/in/christopherottinger">Chris Ottinger</a> at the Victorian Centre for Data Insights for suggesting CAGR as a metric.</p>
+
+<p>Firstly, CAGR is usually measured against Lines Of Code (LOC) - but GUI based tools have binary objects which can’t be counted this way. We can count the growth in objects for GUI approaches, and LOC for custom coding. This still gives us a comparable measure as both will resolve to a percentage growth.  </p>
+
+<p>Secondly, getting hold of the data. Assuming we can find a company to help, we need to get extracts from the codebase at various points over the last few years. This may be tricky to organise but I have sounded out one large enterprise already who seems willing to help.</p>
+
+<p>Thirdly, it seems like many organisations are already moving away from ETL tools to custom coding. How much of this is driven by leveraging the available skills that organisations had already developed for Hadoop style infrastructure and how much is a conscious move away from ETL tooling? Hadoop style infrastructure, that is based on HDFS and closely coupling data storage with compute, looks like yesterday’s technology. But many organisations have plenty of technical people who are comfortable with Java, Python, Scala or Spark programming paradigm and might view ETL tools as legacy or less productive.</p>
+
+<p>Finally, and probably most importantly, there may be many factors that drive productivity including automated testing and continuous integration methods.</p>
+
+<h2 id="why-is-creating-test-data-in-a-data-integration--data-engineering-context-so-much-more-difficult-than-in-a-typical-software-engineering-context"><strong>Why is creating test data in a data integration / data engineering context so much more difficult than in a typical software engineering context?</strong></h2>
+
+<p>In modern software engineering, automated testing is the default and often mandated through Test Driven Development (TDD). Code is modular, well defined and loosely coupled, meaning that unit tests can have clear boundaries and well known inputs and outputs. This constrains the complexity of testing the overall system.</p>
+
+<p>In data engineering the situation can be more complex.</p>
+
+<p>Let’s start with the simplest situation - a Greenfield project with no existing data structures, reports or analytics. A blank canvass with a free choice on the architecture. Here it is possible to define discrete and reusable functions to acquire and load data, plus other functions like address or email validation. These can be reasonably easily validated. TDD can be applied from the beginning to all new functions and everything’s groovy, right?</p>
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2019/08/BI--Data-Warehouse-and-Integrated-Data-Value---Examples-of-DI.png" class="kg-image" /><figcaption>Example of Integrating Data</figcaption></figure>
+
+<p>Well, maybe not. You may still want to apply some conformity to the overall data, or apply a data model. I’m sceptical of the value of the late binding data (schema on need/read) approaches. It absolutely lowers the cost of acquiring data, but it just transfers that cost and multiplies it by the number of consumers of the data (each individual consumer must transform the data versus doing it once, centrally). There are many use cases where this makes perfect sense, <a href="https://www.datajps.com/integrated-data-value/">but as the number of consumers of the data grows, the economics flips</a>.</p>
+
+<p>So you’re conforming the data. Next thing you know someone has changed the range of values that are allowable in a critical field - but didn’t bother telling you. They just made a procedural change in the call centre, and now you have data your system doesn’t expect, and throws an error - in production. Or the test data you started with didn’t contain all the possible combinations. Another error in production. You get the picture. I’ve spent 10 minutes writing this paragraph, and just scratching the surface on the unpredictability of data and analytics systems in Greenfield sites.</p>
+
+<p>It’s much worse if you have a brownfield site. The spaghetti code doesn’t have unit tests defined. Or the test conditions have changed but no-one has documented them since the last time the code was changed. Everyone knows the platform has bad quality data, but no-one knows if the data issues are a bug in the system or a problem in the source. Often it’s both. This also hides a staggering amount of technical debt in the platform because refactoring was never agreed by the business sponsor (I’ve paid for this code once, I’m not paying again…). Etc, etc.</p>
+
+<p>Hmm… how do I model this? What data do I need to capture? No idea yet, but it could be fun finding out.</p>
+
+<p>Righto - I know I’m labouring the point, but please spend a minute or two completing the survey at:</p>
+
+<p><a href="https://forms.gle/8iNv4Toaecb3fFtw8">https://forms.gle/8iNv4Toaecb3fFtw8</a></p>
+
+<p>Thanks so much!</p>
+
+
+  </div><a class="u-url" href="/2019/08/11/data-engineering-research-question.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">DataJPS</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">DataJPS</li><li><a class="u-email" href="mailto:phil.watt@twds.biz">phil.watt@twds.biz</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/philwatt"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">philwatt</span></a></li><li><a href="https://www.twitter.com/phil_watt"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">phil_watt</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

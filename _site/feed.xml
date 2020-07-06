@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-06T11:19:50+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DataJPS</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/07/04/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-07-04T12:57:51+10:00</published><updated>2020-07-04T12:57:51+10:00</updated><id>http://localhost:4000/jekyll/update/2020/07/04/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/07/04/welcome-to-jekyll.html">&lt;p&gt;DataJPS.com&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">DataJPS.com</summary></entry><entry><title type="html">My premise for on-premises</title><link href="http://localhost:4000/2020/06/28/my-premise-for-on-premises.html" rel="alternate" type="text/html" title="My premise for on-premises" /><published>2020-06-28T03:37:13+10:00</published><updated>2020-06-28T03:37:13+10:00</updated><id>http://localhost:4000/2020/06/28/my-premise-for-on-premises</id><content type="html" xml:base="http://localhost:4000/2020/06/28/my-premise-for-on-premises.html">&lt;p&gt;I have many hot button issues. One of them is the use of “on-premise” when every right-minded person instinctively shrieks “NO!”.&lt;/p&gt;
+
+&lt;p&gt;Why does it bother me so much? It’s not really about grammar pedantry. I instantly recognise a sentence ending with a preposition, but thanks to the guidance of &lt;a href=&quot;https://stephenfry.com/2008/11/dont-mind-your-language…/&quot;&gt;Stephen Fry&lt;/a&gt; and others, I’m much more relaxed about grammar - at least in reading others’ work. For my own use of language, I look for some precision, knowing that I will often fall short.&lt;/p&gt;
+
+&lt;p&gt;I have seen &lt;a href=&quot;https://www.adamfowlerit.com/2017/04/premise-vs-premises-cares/&quot;&gt;well-reasoned arguments&lt;/a&gt; that “on-premise” is grammatically correct. I find those arguments somewhat unsatisfying, as they rely on the idea that “premise” remains in use today as a singular noun - which is no longer true. The argument is, in turn, both supported and undermined by the rule “usage defines correctness”:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We normalise the use of “on-premise” through its continued usage&lt;/li&gt;
+  &lt;li&gt;But we break the current dominant convention of “premises” meaning both singular and plural&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let me say again though - the grammar issue is not really a problem.&lt;/p&gt;
+
+&lt;p&gt;Is it that “on-premise”, the plucky upstart, has the temerity to challenge the ubiquity of “on-premises”?  Let’s test the assumption. Which of “on-premise” and “on-premises” is in most common usage? A simple Google search reveals about 91 million results for “on premise” and about 188 million for “on premises”. This is not a very scientific test and probably tells us little more than both are in fairly widespread use. If “usage defines correctness”, then both would be OK as they are widely used.&lt;/p&gt;
+
+&lt;p&gt;I think my issue is about clarity in language. Some say that everyone knows what you mean when you say “on-premise”. That’s not unreasonable when you are talking to IT professionals (and with 91 million Google search results to back it up). But I divide my time equally between talking to IT people and business people (although I accept that IT people are equally important to the business as “business people”).  &lt;/p&gt;
+
+&lt;p&gt;Business people are focussed on driving sales, increasing consumer engagement, reducing costs, improving and developing new products, etc. They will know about the cloud, but may not know what you mean by “on-premise” or even “on-premises”.&lt;/p&gt;
+
+&lt;p&gt;If they know what “premise” means, they will think you mean the basis of your argument, and will be momentarily drawn away from your your message. That tiny distraction could be enough to make a new customer think of their experience with your competitors’ messaging.&lt;/p&gt;
+
+&lt;p&gt;Some will do a Google search. My last Google search for “on-premise” (referenced above) yielded the following:&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;/content/images/2020/06/Screenshot-2020-06-28-at-12.38.55-pm.png&quot; class=&quot;kg-image&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;And when I searched for “on-premises”:&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;/content/images/2020/06/Screenshot-2020-06-28-at-12.42.29-pm.png&quot; class=&quot;kg-image&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;Your Google search results may vary as I realise that Google will hyper-personalise search results based on previous searches. So let’s try again, using DuckDuckGo as the search engine (no personalisation as it is privacy respecting). This time, “on-premise”:&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;/content/images/2020/06/Screenshot-2020-06-28-at-12.48.24-pm.png&quot; class=&quot;kg-image&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;And for “on-premises”:&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;/content/images/2020/06/Screenshot-2020-06-28-at-12.48.42-pm.png&quot; class=&quot;kg-image&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;For both DuckDuckGo and Google, the top three search results either lead to the debate on which is correct, or to “on-premises” instead. Anyone doing this search could easily think you made a mistake writing “on-premise”. Do you want any of your clients to think you are careless or ignorant? Even a small fraction? I certainly don’t.&lt;/p&gt;
+
+&lt;p&gt;So what to do? I like the avoidance method: use a synonym or abbreviation. When talking or for informal settings, you can abbreviate to “on-prem”. That doesn’t work for formal settings like a website.  For more formal documents you you can use “in your own data centre”, “on-site” or similar. I prefer the former as it is completely unambiguous.&lt;/p&gt;
+
+&lt;p&gt;I completely acknowledge that there is a real danger of disappearing up your own backside when focussing on grammar and language usage, as Messrs. Fry and Laurie beautifully put more than 30 years ago:&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-embed-card&quot;&gt;&lt;iframe width=&quot;459&quot; height=&quot;344&quot; src=&quot;https://www.youtube.com/embed/hHQ2756cyD8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/figure&gt;
+
+&lt;p&gt;Instead, let’s focus on the audience. Let’s make the message something they can intuitively understand without doing a Google search. Sometimes “on-premise” will work for that audience.  More often than not you will leave at least some of your audience behind. This is best, and easily, avoided.&lt;/p&gt;</content><author><name></name></author><category term="cloud" /><category term="getting-started" /><summary type="html">I have many hot button issues. One of them is the use of “on-premise” when every right-minded person instinctively shrieks “NO!”.</summary></entry><entry><title type="html">Contact Form</title><link href="http://localhost:4000/2020/04/01/contact-form.html" rel="alternate" type="text/html" title="Contact Form" /><published>2020-04-01T03:55:44+11:00</published><updated>2020-04-01T03:55:44+11:00</updated><id>http://localhost:4000/2020/04/01/contact-form</id><content type="html" xml:base="http://localhost:4000/2020/04/01/contact-form.html">&lt;script&gt; (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=&quot;typef_orm&quot;, b=&quot;https://embed.typeform.com/&quot;; if(!gi.call(d,id)) { js=ce.call(d,&quot;script&quot;); js.id=id; js.src=b+&quot;embed.js&quot;; q=gt.call(d,&quot;script&quot;)[0]; q.parentNode.insertBefore(js,q) } })() &lt;/script&gt;
+
+&lt;p&gt;powered by &lt;a href=&quot;https://admin.typeform.com/signup?utm_campaign=DoEbHn&amp;amp;utm_source=typeform.com-01E4SP702X001WB5FX4BHNDNJW-free&amp;amp;utm_medium=typeform&amp;amp;utm_content=typeform-embedded-poweredbytypeform&amp;amp;utm_term=EN&quot;&gt;Typeform&lt;/a&gt; 
+&lt;!--kg-card-end: html--&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">powered by Typeform</summary></entry><entry><title type="html">The Value of Integrated Data</title><link href="http://localhost:4000/2020/03/31/the-value-of-integrated-data.html" rel="alternate" type="text/html" title="The Value of Integrated Data" /><published>2020-03-31T01:50:07+11:00</published><updated>2020-03-31T01:50:07+11:00</updated><id>http://localhost:4000/2020/03/31/the-value-of-integrated-data</id><content type="html" xml:base="http://localhost:4000/2020/03/31/the-value-of-integrated-data.html">&lt;p&gt;Let’s be honest - this post is a rehash of a video post I made last year. The main difference is that is has a different brand identiy and is written out - but the content is here anyway. So you have a choice - read on, or go and watch the &lt;a href=&quot;https://www.datajps.com/integrated-data-value/&quot;&gt;3 minute video&lt;/a&gt;. Or neither. Anyway, here it is ;-)&lt;/p&gt;
+
+&lt;p&gt;The IP remains mine, and collaborators are acknowledged in the video post linked above.&lt;/p&gt;
+
+&lt;p&gt;Most data experts agree that 80% of analytics effort is in integrating data. Often this is indicated by pairing two Data Engineers with every Data Scientist. Even with this being the case, the chances are that your data scientists through to finance analysts and everyone in between, spend a lot of time crashing data together.&lt;/p&gt;
+
+&lt;p&gt;Why do organisations spend so much time and money integrating data?&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-we-mean-by-integrated-data&quot;&gt;&lt;strong&gt;What do we mean by ‘integrated data’?&lt;/strong&gt;&lt;/h2&gt;
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2020/03/Elait-BI--Data-Warehouse-and-Integrated-Data-Value---What-is-Integrated-Data.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Figure 1 - Integrated Data&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Integrated data is data that has been taken from different sources and combined in a consistent way. Integrated data can enrich your analysis. For example, it can help you predict if your customers will like that brilliant new product or service you’re working on.  If you work in a big company you probably have a data warehouse that contains integrated data, like the one shown in the image above.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-is-it-used-in-the-enterprise-and-why-invest&quot;&gt;Where is it used in the enterprise? And why invest?&lt;/h2&gt;
+
+&lt;p&gt;Let’s look at the chart in Figure 2 below:&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2020/03/Elait-BI--Data-Warehouse-and-Integrated-Data-Value---Value-of-Integrated-Data.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Figure 2 - The Value of Integrated Data&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;OK - there is a lot here to describe, so let’s break it down, layer by layer.&lt;/p&gt;
+
+&lt;p&gt;The chart is organised around different groups in an enterprise. You can think of a typical organisation being made up of individuals, teams, branches and departments which all roll up to the whole enterprise - shown in Figure 3:&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2020/03/Elait-BI--Data-Warehouse-and-Integrated-Data-Value---EnterpriseGroupsElait.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Figure 3 - Groups in a Typical Enterprise&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;As the size and scope of these groups grow, they need more context about the world around them to make decisions - or more integrated data.&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2020/03/Elait-BI--Data-Warehouse-and-Integrated-Data-Value---IntergratedDataNeededByGroup.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Figure 4 - Amount of Integrated Data Needed by Group&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Individuals need to understand their own performance, while enterprises need a broad, overall view as shown in Figure 4.&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2020/03/Elait-BI--Data-Warehouse-and-Integrated-Data-Value---EndUserControl.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Figure 5 - Individual Control of Integrated Data by Groups in the Enterprise&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;The control an individual has over the integrated data they work with diminishes as you move through the groups. Enterprise integrated data is tightly controlled, but an individual can easily work with their own data in Excel, Tableau or Power BI.&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2020/03/Elait-BI--Data-Warehouse-and-Integrated-Data-Value---GovernanceOverhead.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Figure 6 - Governance Overhead as Control Diminishes and Integrated Data Consumption Grows&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;This diminishing control has an inverse relationship to the amount of governance you need. Australian Privacy Principles, GDPR, HIPAA, and so-on means that everyone needs to understand their data obligations.&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2020/03/Elait-BI--Data-Warehouse-and-Integrated-Data-Value---CapitalNeeded.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Figure 7 - Capital Investment for Integrated Data&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Figure 7 shows how the increase in governance &amp;amp; need for integrated data correlates to increased capital investment needed as more data is integrated. But the good news is that the cost per user falls rapidly as more people use integrated data, as illustrated in Figure 8, below.&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2020/03/Elait-BI--Data-Warehouse-and-Integrated-Data-Value---CostPerUser.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Figure 8 - Cost Per User Falls with Larger Groups&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;better-insights-and-better-outcomes-with-integrated-data&quot;&gt;Better insights and better outcomes with integrated data&lt;/h2&gt;
+
+&lt;p&gt;And this should translate into better insights, and better outcomes. The better you get at integrating data from different parts of the business, the more insight you can give to more people - and maybe make a big dent in that 80% we talked about at the beginning.&lt;/p&gt;
+
+&lt;p&gt;To find out more about the value of integrated data, or how Elait can help you with your data journey, please get in touch through our &lt;a href=&quot;https://www.datajps.com/contact-form/&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Let’s be honest - this post is a rehash of a video post I made last year. The main difference is that is has a different brand identiy and is written out - but the content is here anyway. So you have a choice - read on, or go and watch the 3 minute video. Or neither. Anyway, here it is ;-)</summary></entry><entry><title type="html">Why is Test Driven Development so hard to implement in an analytics platform?</title><link href="http://localhost:4000/2019/10/31/why-is-test-driven-development-so-hard-to-implement-in-an-analytics-platform.html" rel="alternate" type="text/html" title="Why is Test Driven Development so hard to implement in an analytics platform?" /><published>2019-10-31T01:46:49+11:00</published><updated>2019-10-31T01:46:49+11:00</updated><id>http://localhost:4000/2019/10/31/why-is-test-driven-development-so-hard-to-implement-in-an-analytics-platform</id><content type="html" xml:base="http://localhost:4000/2019/10/31/why-is-test-driven-development-so-hard-to-implement-in-an-analytics-platform.html">&lt;p&gt;TL;DR - please help my research by completing this &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSd5QNU26co7dAuk4XOvZNqUpq3hQkBRKXTYXjwOpOJDiC8cYQ/viewform&quot;&gt;survey&lt;/a&gt; and let me know which of the 7 challenges in TDD for analytics and data are relevant to you.  &lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2019/10/data-testing-patterns.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Common Data Testing Pattern&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Test -Driven Development (TDD) is a common pattern in software engineering that helps reduce cycle time, improve code quality and reduce production defects. Within data engineering and analytics projects, TDD is held up as best practice in development and maintenance lifecycle phases. Anecdotally, many organisations do not see the promised benefits of TDD in an analytics context, prompting the question:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Why is it so hard to effectively implement Test Driven Development in an analytics platform?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The focus of my master’s research is answering this question. I recently presented what I had so far at 2 MeetUp groups - ‘&lt;a href=&quot;https://www.meetup.com/Enterprise-Data-Science-Architecture/events/264027501/&quot;&gt;Enterprise Data Science Architecture&lt;/a&gt;’ and ‘&lt;a href=&quot;https://www.meetup.com/AIEng-Melbourne/events/265682295/&quot;&gt;AI Engineers of Melbourne&lt;/a&gt;’ on Monday. &lt;a href=&quot;https://www.slideshare.net/PhilWatt/why-is-test-driven-development-so-hard-to-implement-in-an-analytics-platform&quot;&gt;Here are my slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There’s more work to be done still, the work on the thesis is about halfway there. As the TL;DR bit asks, I’d love your help to complete a short 4-minute &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSd5QNU26co7dAuk4XOvZNqUpq3hQkBRKXTYXjwOpOJDiC8cYQ/viewform&quot;&gt;survey&lt;/a&gt; on whether you recognise the 7 challenges that the academic literature describes, and how difficult they are to resolve.&lt;/p&gt;
+
+&lt;p&gt;Thanks for your support.&lt;/p&gt;</content><author><name></name></author><summary type="html">TL;DR - please help my research by completing this survey and let me know which of the 7 challenges in TDD for analytics and data are relevant to you.  </summary></entry><entry><title type="html">Privacy and Cookie Policy</title><link href="http://localhost:4000/2019/10/19/privacy-and-cookies.html" rel="alternate" type="text/html" title="Privacy and Cookie Policy" /><published>2019-10-19T05:01:05+11:00</published><updated>2019-10-19T05:01:05+11:00</updated><id>http://localhost:4000/2019/10/19/privacy-and-cookies</id><content type="html" xml:base="http://localhost:4000/2019/10/19/privacy-and-cookies.html">&lt;p&gt;Your privacy is important to us. It is Data JPS policy to respect your privacy regarding any information we may collect from you across our website, &lt;a href=&quot;/&quot;&gt;https://datajps.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;information-from-website-browsers&quot;&gt;&lt;strong&gt;Information from website browsers&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;If you’re just browsing the website, we collect the same basic information that most websites collect. We use common internet technologies, such as cookies and web server logs, to collect Technical Information. This is stuff we collect from every visitor.&lt;/p&gt;
+
+&lt;p&gt;The information we collect about all visitors to our website includes the visitor’s browser type, language preference, referring site, additional websites requested, and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses. We use this information to improve your experience using our website and to offer targeted advertisements from Google Adsense, that helps to fund the site.&lt;/p&gt;
+
+&lt;h2 id=&quot;cookies&quot;&gt;Cookies&lt;/h2&gt;
+
+&lt;p&gt;Cookies are small pieces of data, stored in text files, that are stored on your computer or other device when websites are loaded in a browser. They are widely used to “remember” you and your preferences, either for a single visit (through a “session cookie”) or for multiple repeat visits (using a “persistent cookie”). They ensure a consistent and efficient experience for visitors, and perform essential functions such as allowing users to register and remain logged in. Cookies may be set by the site that you are visiting (known as “first party cookies”), or by third parties, such as those who serve content or provide advertising or analytics services on the website (“third party cookies”).&lt;/p&gt;
+
+&lt;p&gt;The table below explains the types of cookies we use on our websites and why we use them.&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2019/10/Types-of-cookies.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Types of cookies used on datajps.com&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;This means that:&lt;/p&gt;
+
+&lt;!--kg-card-begin: markdown--&gt;
+&lt;ul&gt;
+  &lt;li&gt;Third party vendors, including Google, use cookies to serve ads based on your prior visits to datajps.com or other websites.&lt;/li&gt;
+  &lt;li&gt;Google’s use of advertising cookies enables it and its partners to serve ads to datajps.com users based on their visit to datajps.com and/or other sites on the Internet.&lt;/li&gt;
+  &lt;li&gt;You can opt out of personalized advertising by visiting &lt;a href=&quot;https://www.google.com/settings/ads&quot;&gt;Ads Settings&lt;/a&gt;. (Alternatively, check some other ways to opt out of a third-party vendor’s use of cookies for personalized advertising by visiting &lt;a href=&quot;https://www.aboutads.info/choices/&quot;&gt;www.aboutads.info&lt;/a&gt;.)
+&lt;!--kg-card-end: markdown--&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can use your browser settings to block the cookies we use.&lt;/p&gt;
+
+&lt;h2 id=&quot;reasons-for-collecting-personal-information&quot;&gt;Reasons for collecting personal information&lt;/h2&gt;
+
+&lt;p&gt;We ask for personal information for one of only two reasons:&lt;/p&gt;
+
+&lt;!--kg-card-begin: markdown--&gt;
+&lt;ol&gt;
+  &lt;li&gt;to provide an information service to you&lt;/li&gt;
+  &lt;li&gt;as part of academic research that we contribute towards from time to time.
+&lt;!--kg-card-end: markdown--&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We collect personal information only by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.&lt;/p&gt;
+
+&lt;h2 id=&quot;processing-personal-information&quot;&gt;Processing Personal Information&lt;/h2&gt;
+
+&lt;p&gt;We only retain collected information for as long as necessary to provide you with the information service or, if collected for academic research, until the peer review process has been completed.&lt;/p&gt;
+
+&lt;p&gt;What data we store, we’ll protect within according to &lt;a href=&quot;https://www.oaic.gov.au/privacy/australian-privacy-principles/&quot;&gt;Australian Privacy Principles&lt;/a&gt;(APPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The APPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information.&lt;/p&gt;
+
+&lt;h2 id=&quot;links-from-datajpscom-to-other-sites&quot;&gt;Links from datajps.com to other sites&lt;/h2&gt;
+
+&lt;p&gt;Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.&lt;/p&gt;
+
+&lt;h2 id=&quot;providing-your-consent&quot;&gt;Providing your consent&lt;/h2&gt;
+
+&lt;p&gt;You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.&lt;/p&gt;
+
+&lt;p&gt;Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us at info@twds.biz&lt;/p&gt;
+
+&lt;h2 id=&quot;withdrawing-your-consent&quot;&gt;Withdrawing your consent&lt;/h2&gt;
+
+&lt;p&gt;You can choose to withdraw your consent at any time, and we will then destroy any records we hold containing your personal information. You can use your browser settings to block the cookies we use. To withdraw your consent, please contact us through our &lt;a href=&quot;https://forms.gle/wbUuDcjgThUUPjGF6&quot;&gt;contact form&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;policy-effective-date&quot;&gt;Policy Effective Date&lt;/h2&gt;
+
+&lt;p&gt;This policy is effective as of 19 October 2019.&lt;/p&gt;</content><author><name></name></author><category term="policy" /><summary type="html">Your privacy is important to us. It is Data JPS policy to respect your privacy regarding any information we may collect from you across our website, https://datajps.com.</summary></entry><entry><title type="html">Comment Policy</title><link href="http://localhost:4000/2019/09/02/comment-policy.html" rel="alternate" type="text/html" title="Comment Policy" /><published>2019-09-02T05:33:59+10:00</published><updated>2019-09-02T05:33:59+10:00</updated><id>http://localhost:4000/2019/09/02/comment-policy</id><content type="html" xml:base="http://localhost:4000/2019/09/02/comment-policy.html">&lt;p&gt;We want you to feel at home when you post a comment on DataJPS. We want &lt;em&gt;everyone&lt;/em&gt; to feel at home posting comments on DataJPS. We don’t know what your home is like, but we know how we expect people to behave when they visit ours. That’s why we reserve the right to delete comments and ban users as needed to keep the comment threads here civil and substantive.&lt;/p&gt;
+
+&lt;p&gt;Our No. 1 house rule is simple: &lt;strong&gt;Don’t be a jerk&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Want to be the kind of commenter we’d love to bring home to dinner? Here’s what we like to see in comments:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Weigh in with smart, informed ideas that contribute further to the story.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Give us useful, constructive criticism.&lt;/strong&gt; Spot a typo or an error? Let us know and we will correct it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Demonstrate and share the intelligence, wisdom, and humour we know you possess.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t feed the trolls.&lt;/strong&gt; You wouldn’t dive into a debate with our ill-informed, weird uncle Gary just for the heck of it. And you definitely wouldn’t feed him. (We told you he was weird.) Downvote and flag comments instead.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Although we can’t be everywhere at once, here are some of the kinds of comments we’re going to do our best to curtail:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Promoting your own brand, product, or blog.&lt;/strong&gt; So you’ve got a climate change solution that will simultaneously solve world poverty. Good luck with that, chief.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Impersonating authors or other commenters.&lt;/strong&gt; We can’t believe we have to say this, but: Don’t do that. It’s weird.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Comments that make it clear you didn’t read the article.&lt;/strong&gt; Enraged that we didn’t mention X in a story about Y? Slow down, Speedy McFingerson. If you’d made it past paragraph two, you’d see a very well thought-out discussion of that X you hold so dear.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Comments that are completely out of left field.&lt;/strong&gt; Sometimes discussions veer off a bit, but are still related to the original subject. That is fine. Hijacking the conversation to promote off-topic commentary is not.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Threats — no matter how vague — against the author or other commenters.&lt;/strong&gt; Things can get heated. Before you casually mention your foe’s home address, think of your Mother Earth. (Bonus points if you never use the phrase “Mother Earth.”)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Racism, sexism, homophobia, you get the drift.&lt;/strong&gt; Call us the PC Police, fine, but don’t say we didn’t warn you when you get tased. **And by tased, we mean banned or deleted. DataJPS.com has not — and will not — ever own a taser, and even if we were to own a solar-charged taser, we’d be too scared to use it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Trolling.&lt;/strong&gt; If you’re just out for a good trolling and are not contributing meaningfully to the conversation, we’ll be pushing you back under the bridge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;P.S. I totally ripped off this policy from &lt;a href=&quot;https://grist.org/grist-comment-policy/&quot;&gt;grist.org&lt;/a&gt;. Thanks - you guys rock!&lt;/p&gt;</content><author><name></name></author><summary type="html">We want you to feel at home when you post a comment on DataJPS. We want everyone to feel at home posting comments on DataJPS. We don’t know what your home is like, but we know how we expect people to behave when they visit ours. That’s why we reserve the right to delete comments and ban users as needed to keep the comment threads here civil and substantive.</summary></entry><entry><title type="html">Data Engineering Research Question</title><link href="http://localhost:4000/2019/08/11/data-engineering-research-question.html" rel="alternate" type="text/html" title="Data Engineering Research Question" /><published>2019-08-11T12:46:04+10:00</published><updated>2019-08-11T12:46:04+10:00</updated><id>http://localhost:4000/2019/08/11/data-engineering-research-question</id><content type="html" xml:base="http://localhost:4000/2019/08/11/data-engineering-research-question.html">&lt;p&gt;TL;DR: I’m looking for some help to define my master’s thesis research question. I’d really like you to give me some feedback through a short survey at:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/8iNv4Toaecb3fFtw8&quot;&gt;https://forms.gle/8iNv4Toaecb3fFtw8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some of you know I’m working on a master’s degree at the University of Melbourne. I’m in the home stretch now, and working on my final thesis. This requires a research question with the following characteristics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clear&lt;/li&gt;
+  &lt;li&gt;Concise&lt;/li&gt;
+  &lt;li&gt;Complex&lt;/li&gt;
+  &lt;li&gt;Arguable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m most familiar with and interested in data and analytics as a domain, so this help to constrain the thinking. I’ve been talking to a number of people with data and analytics experience in my network that are also based in Melbourne. With their help, I’ve come up with the shortlist below, although I’m open to the idea that there may be better questions available. The questions I have so far are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Why is it so hard to get real-time data into an analytics platform or data warehouse?&lt;/li&gt;
+  &lt;li&gt;When should an organisation approach data integration / data engineering with an ETL Tool, and when is custom coding a better choice? (Definitions of both below)&lt;/li&gt;
+  &lt;li&gt;Why is creating test data in a data integration / data engineering context so much more difficult than in a typical software engineering context?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ve laid out my current thinking for each question below. If you have some thoughts on the questions and how to answer them, please get in touch or complete the short survey  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/8iNv4Toaecb3fFtw8&quot;&gt;https://forms.gle/8iNv4Toaecb3fFtw8&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;why-is-it-so-hard-to-get-real-time-data-into-an-analytics-platform-or-data-warehouse&quot;&gt;&lt;strong&gt;Why is it so hard to get real-time data into an analytics platform or data warehouse?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Many people I’ve interviewed  cite this as a real problem. An example is as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Imagine an organisation with most systems run in their own on-premises data centre. The data warehouse development is managed by the Enterprise Finance division. The Marketing department wants to get real-time data into the data warehouse from the CRM system, which is owned by the Retail division. IT is responsible for the run and operation of the CRM system and the data warehouse. Operational (OPEX) costs for the CRM are borne by IT and licensing is by CPU sockets. The data is currently sent to the data warehouse overnight through a batch extract. The CRM system is otherwise idle overnight. Bonuses and promotions for IT executives are linked to annual OPEX cost reductions of 5%.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2019/08/BI--Data-Warehouse-and-Integrated-Data-Value---Unimelb-analytical-ecosystem-1.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Typical Analytics Ecosystem: based on a diagram by Humza Naseer, University of Melbourne 2019&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Moving the extract to real-time will mean a small increase in the CPU requirement during the day. Turning off the overnight batch has no impact on the CPU requirement as the system must be sized based on peak CPU needs during the online day. This will attract an increase in OPEX costs for IT. IT executives will block this change for real-time data - even if Marketing provide additional OPEX funding because their bonuses are linked to cost reductions. Escalation may not help, as the first point where the escalation will meet a common manager could easily be the CEO - whose time will be very precious.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I hypothesise this is a result of organisational entropy, driven by misaligned incentives. I think I can model the behaviour and explore ways of altering pricing for the variables to change behaviour. The advantage of this question is that I can simulate the data and validate it through interviews. The downside of this question is the assumptions I need to make in the model - and can I get a model that gives a real insight into the problem? Kudos to &lt;a href=&quot;https://www.linkedin.com/in/leo-lopes/&quot;&gt;Leo Lopes at FICO&lt;/a&gt; who acted as a sounding board for developing the concept.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-should-an-organisation-approach-data-integration--data-engineering-with-an-etl-tool-and-when-is-custom-coding-a-better-choice&quot;&gt;&lt;strong&gt;When should an organisation approach data integration / data engineering with an ETL Tool, and when is custom coding a better choice?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;There are two common approaches to data integration or data engineering. Firstly using an ETL tool with a graphical interface - sometimes a commercial tool like Informatica or even an open-source tool like NiFi, Talend or Node-RED. Secondly, custom coding using an open-source language like Java, Scala, Python or similar - often coupled with another open-source framework like Apache Airflow.&lt;/p&gt;
+
+&lt;p&gt;Given that data engineering can become very complex very quickly, which is the most productive choice over the lifecycle of the data assets under management?&lt;/p&gt;
+
+&lt;p&gt;For this question, I am considering using Compound Annual Growth Rate (CAGR) in the codebase over multiple years. This measure requires capturing data from source code control systems and has some dependencies and variables to control for. Kudos to &lt;a href=&quot;https://www.linkedin.com/in/christopherottinger&quot;&gt;Chris Ottinger&lt;/a&gt; at the Victorian Centre for Data Insights for suggesting CAGR as a metric.&lt;/p&gt;
+
+&lt;p&gt;Firstly, CAGR is usually measured against Lines Of Code (LOC) - but GUI based tools have binary objects which can’t be counted this way. We can count the growth in objects for GUI approaches, and LOC for custom coding. This still gives us a comparable measure as both will resolve to a percentage growth.  &lt;/p&gt;
+
+&lt;p&gt;Secondly, getting hold of the data. Assuming we can find a company to help, we need to get extracts from the codebase at various points over the last few years. This may be tricky to organise but I have sounded out one large enterprise already who seems willing to help.&lt;/p&gt;
+
+&lt;p&gt;Thirdly, it seems like many organisations are already moving away from ETL tools to custom coding. How much of this is driven by leveraging the available skills that organisations had already developed for Hadoop style infrastructure and how much is a conscious move away from ETL tooling? Hadoop style infrastructure, that is based on HDFS and closely coupling data storage with compute, looks like yesterday’s technology. But many organisations have plenty of technical people who are comfortable with Java, Python, Scala or Spark programming paradigm and might view ETL tools as legacy or less productive.&lt;/p&gt;
+
+&lt;p&gt;Finally, and probably most importantly, there may be many factors that drive productivity including automated testing and continuous integration methods.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-is-creating-test-data-in-a-data-integration--data-engineering-context-so-much-more-difficult-than-in-a-typical-software-engineering-context&quot;&gt;&lt;strong&gt;Why is creating test data in a data integration / data engineering context so much more difficult than in a typical software engineering context?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;In modern software engineering, automated testing is the default and often mandated through Test Driven Development (TDD). Code is modular, well defined and loosely coupled, meaning that unit tests can have clear boundaries and well known inputs and outputs. This constrains the complexity of testing the overall system.&lt;/p&gt;
+
+&lt;p&gt;In data engineering the situation can be more complex.&lt;/p&gt;
+
+&lt;p&gt;Let’s start with the simplest situation - a Greenfield project with no existing data structures, reports or analytics. A blank canvass with a free choice on the architecture. Here it is possible to define discrete and reusable functions to acquire and load data, plus other functions like address or email validation. These can be reasonably easily validated. TDD can be applied from the beginning to all new functions and everything’s groovy, right?&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2019/08/BI--Data-Warehouse-and-Integrated-Data-Value---Examples-of-DI.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Example of Integrating Data&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Well, maybe not. You may still want to apply some conformity to the overall data, or apply a data model. I’m sceptical of the value of the late binding data (schema on need/read) approaches. It absolutely lowers the cost of acquiring data, but it just transfers that cost and multiplies it by the number of consumers of the data (each individual consumer must transform the data versus doing it once, centrally). There are many use cases where this makes perfect sense, &lt;a href=&quot;https://www.datajps.com/integrated-data-value/&quot;&gt;but as the number of consumers of the data grows, the economics flips&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So you’re conforming the data. Next thing you know someone has changed the range of values that are allowable in a critical field - but didn’t bother telling you. They just made a procedural change in the call centre, and now you have data your system doesn’t expect, and throws an error - in production. Or the test data you started with didn’t contain all the possible combinations. Another error in production. You get the picture. I’ve spent 10 minutes writing this paragraph, and just scratching the surface on the unpredictability of data and analytics systems in Greenfield sites.&lt;/p&gt;
+
+&lt;p&gt;It’s much worse if you have a brownfield site. The spaghetti code doesn’t have unit tests defined. Or the test conditions have changed but no-one has documented them since the last time the code was changed. Everyone knows the platform has bad quality data, but no-one knows if the data issues are a bug in the system or a problem in the source. Often it’s both. This also hides a staggering amount of technical debt in the platform because refactoring was never agreed by the business sponsor (I’ve paid for this code once, I’m not paying again…). Etc, etc.&lt;/p&gt;
+
+&lt;p&gt;Hmm… how do I model this? What data do I need to capture? No idea yet, but it could be fun finding out.&lt;/p&gt;
+
+&lt;p&gt;Righto - I know I’m labouring the point, but please spend a minute or two completing the survey at:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/8iNv4Toaecb3fFtw8&quot;&gt;https://forms.gle/8iNv4Toaecb3fFtw8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks so much!&lt;/p&gt;</content><author><name></name></author><category term="data-integration" /><category term="analytics" /><category term="architecture" /><category term="data-warehouse" /><category term="devops" /><category term="software-engineering" /><category term="integrated-data" /><summary type="html">TL;DR: I’m looking for some help to define my master’s thesis research question. I’d really like you to give me some feedback through a short survey at:</summary></entry><entry><title type="html">Is it worth the time?</title><link href="http://localhost:4000/2019/07/06/is-it-worth-the-time.html" rel="alternate" type="text/html" title="Is it worth the time?" /><published>2019-07-06T12:42:09+10:00</published><updated>2019-07-06T12:42:09+10:00</updated><id>http://localhost:4000/2019/07/06/is-it-worth-the-time</id><content type="html" xml:base="http://localhost:4000/2019/07/06/is-it-worth-the-time.html">&lt;p&gt;My favourite web-comic is &lt;a href=&quot;https://xkcd.com&quot;&gt;xkcd.com&lt;/a&gt;. And probably the most useful comic is this one:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://xkcd.com/1205/&quot;&gt;https://xkcd.com/1205/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card kg-card-hascaption&quot;&gt;&lt;img src=&quot;/content/images/2019/07/is_it_worth_the_time-1.png&quot; class=&quot;kg-image&quot; /&gt;&lt;figcaption&gt;Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;There’s loads of great comics there - literally thousands now. This one has stuck with me for a few years now and should be on the cubicle wall of every DevOps or Site Reliability Engineer as a useful aide-memoire.&lt;/p&gt;
+
+&lt;p&gt;I’m a big fan of SRE (Site Reliability Engineering), but I confess that my appreciation is still developing. I think I took it for granted that I understood it intuitively when I first came across it last year while we were establishing the team to build the analytics platform at the Victorian Department of Premier and Cabinet. But I didn’t really understand it fully. SRE has a much bigger impact on the whole development lifecycle than I realised - in a good way - and the last month has been a bit of an eye opener learning more about it. SRE is much more profound and sophisticated approach, and if you have time, check out the video from Google Cloud Next ‘19  in March at:&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-embed-card&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/0UyrVqBoCAU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/figure&gt;
+
+&lt;p&gt;There are two great free books on SRE from Google at:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://landing.google.com/sre/books/&quot;&gt;https://landing.google.com/sre/books/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="devops" /><category term="software-engineering" /><summary type="html">My favourite web-comic is xkcd.com. And probably the most useful comic is this one:</summary></entry><entry><title type="html">The Value of Integrated Data</title><link href="http://localhost:4000/2019/07/06/integrated-data-value.html" rel="alternate" type="text/html" title="The Value of Integrated Data" /><published>2019-07-06T10:44:14+10:00</published><updated>2019-07-06T10:44:14+10:00</updated><id>http://localhost:4000/2019/07/06/integrated-data-value</id><content type="html" xml:base="http://localhost:4000/2019/07/06/integrated-data-value.html">&lt;p&gt;Just about every business does it. Most people don’t see the value. I created a short video explaining what it is, and why people spend so much money on it.&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-embed-card&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/x2ANfvtXCaU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/figure&gt;
+
+&lt;p&gt;I’m reasonably happy with it, and have figured out how to better manage the audio (thanks to iMovie) .  I used &lt;a href=&quot;https://renderforest.com&quot;&gt;renderforest.com&lt;/a&gt; to create it but it’s not really designed for doing videos that need to follow a strong corporate identity (you can’t customise the fonts, and so on).&lt;/p&gt;
+
+&lt;p&gt;Escient may or may not choose to use it for their official channels, but I think the message is good and explains some concepts I’ve been touting for many years.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I want to credit &lt;a href=&quot;https://linkedin.com/in/jasonryansharpe&quot;&gt;Jason Sharpe&lt;/a&gt;  and &lt;a href=&quot;https://www.linkedin.com/in/julianhebden&quot;&gt;Julian Hebden&lt;/a&gt; who inspired the diagram explained in the video, back in 2013 when we were all at Telstra.&lt;/p&gt;
+
+&lt;p&gt;There are some follow up questions that fall out of this, like ‘does it have to be so expensive?’ and ‘how do we do more of it with less money?’. Harder questions, answers to which may vary by your own situation…&lt;/p&gt;</content><author><name></name></author><category term="analytics" /><category term="data-warehouse" /><category term="data-integration" /><category term="integrated-data" /><summary type="html">Just about every business does it. Most people don’t see the value. I created a short video explaining what it is, and why people spend so much money on it.</summary></entry></feed>
